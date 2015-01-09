@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NASA Daily Image</string>
+    <string name="action_settings">Settings</string>
+    <string name="test_image_title">        Solar Dynamics Observatory Welcomes the New Year</string>
+    <string name="test_image_date">        Fri, 02 Jan 2015 12:00:00 EDT</string>
+    <string name="test_image_description">       There were no fireworks on the sun to welcome in the New Year and only a few C-class flares during the
+        last day of 2014. Instead, the sun starts 2015 with an enormous coronal hole near the south pole.
+        This image, captured on Jan. 1, 2015 by the Atmospheric Imaging Assembly (AIA) instrument on NASA\'s
+        Solar Dynamics Observatory, shows the coronal hole as a dark region in the south. Coronal holes are regions
+        of the corona where the magnetic field reaches out into space rather than looping back down onto the surface.
+        Particles moving along those magnetic fields can leave the sun rather than being trapped near the surface.
+        Those trapped particles can heat up and glow, giving us the lovely AIA images.
+        In the parts of the corona where the particles leave the sun, the glow is much dimmer and the coronal hole looks dark.
+        Coronal holes were first seen in images taken by astronauts on board NASA’s Skylab space station in 1973 and 1974.
+        They can be seen for a long time, although the exact shape changes all the time.
+        The polar coronal hole can remain visible for five years or longer.
+        Each time a coronal hole rotates by the Earth we can measure the particles flowing out of the hole as a high-speed stream,
+        another source of space weather. Charged particles in the Earth’s radiation belts are accelerated when the high-speed stream runs
+        into the Earth’s magnetosphere. The acceleration of particles in the magnetosphere is studied by NASA\'s Van Allen Probes mission.
+        As Solar Cycle 24 fades, the number of flares each day will get smaller, but the coronal holes provide another source of
+        space weather that needs to be understood and predicted. Image Credit: NASA/SDO Caption: Dean Pesnell</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+
+</resources>
